@@ -3,7 +3,7 @@
 ## Overview
 OctoTester is an innovative Unity application designed for game developers and testers to streamline and enhance the game testing process. With a focus on user-friendly interfaces and powerful analytics, OctoTester provides an all-in-one solution for debugging, performance analysis, and user experience feedback in Unity-based games.
 
-##Features
+## Features
 * Automated Testing: Run predefined or custom test cases automatically across different game scenarios.
 * Performance Monitoring: Monitor and record game performance metrics like FPS, memory usage, and load times.
 * Bug Reporting Tool: Easy-to-use interface for testers to report bugs with screenshots and detailed logs.
