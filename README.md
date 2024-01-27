@@ -16,13 +16,13 @@ OctoTester is an innovative Unity application designed for game developers and t
 * Import the package into your Unity project.
 * Follow the setup wizard to integrate OctoTester with your game.
 
-# Getting Started
+## Getting Started
 * Setup Automated Tests: Define test scenarios using the OctoTester editor.
 * Performance Monitoring: Enable performance tracking in the settings and start monitoring in real-time.
 * Reporting Bugs: Use the in-game bug reporting tool to send reports directly to your issue tracker.
 * Collecting Feedback: Enable the feedback collection module and customize the feedback form.
 
-#Documentation
+## Documentation
 Detailed documentation is available in the Docs folder.
 For API references, see the API.md file.
 
